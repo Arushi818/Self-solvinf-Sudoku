@@ -1,1 +1,1 @@
-# Self-solvinf-Sudoku
+# Self-solving-Sudoku
